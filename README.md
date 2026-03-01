@@ -34,10 +34,10 @@ I specialize in embedding with engineering, product, and operations teams to cre
 
 | Repo | Type | Context |
 |---|---|---|
-| [docweaver](..docweaver) | DocWeaver | Documentation Template System |
-| [onboarding-docs-template](../onboarding-docs-template) | Onboarding Documentation | SaaS product |
-| [sop-library](../sop-library) | SOPs & Process Guides | DevTools company |
-| [knowledge-base-architecture](../knowledge-base-architecture) | KB Architecture & Governance | Enterprise |
+| [docweaver](https://github.com/chandlerpm/docweaver) | DocWeaver | Documentation Template System |
+| [onboarding-docs-template](https://github.com/chandlerpm/onboarding-docs-template) | Onboarding Documentation | SaaS product |
+| [sop-library](https://github.com/chandlerpm/sop-library) | SOPs & Process Guides | DevTools company |
+| [knowledge-base-architecture](https://github.com/chandlerpm/knowledge-base-architecture) | KB Architecture & Governance | Enterprise |
 
 ---
 
