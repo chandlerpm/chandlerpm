@@ -34,6 +34,7 @@ I specialize in embedding with engineering, product, and operations teams to cre
 
 | Repo | Type | Context |
 |---|---|---|
+| [docweaver] (..docweaver) | DocWeaver | Documentation Template System |
 | [onboarding-docs-template](../onboarding-docs-template) | Onboarding Documentation | SaaS product |
 | [sop-library](../sop-library) | SOPs & Process Guides | DevTools company |
 | [knowledge-base-architecture](../knowledge-base-architecture) | KB Architecture & Governance | Enterprise |
